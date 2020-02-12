@@ -1,6 +1,19 @@
+-----BEGIN PGP MESSAGE-----
+Version: BCPG v1.58
 
-OS 2020 1
-
-Week 02: Done!
-===================
-TODO: Encrypt message, don't know the public key
+hQIMA4BxSVkIulX+ARAAqNkESLbwsx791MlLWSuEWL0OTEBGiXnxEsKGS4g0R1pF
+hZNA5/R6tfKE9agUlCnfxC96EQqAoHU10g7QN7Uq0zpLrxDzVEh5W9gRV0zEAxXE
+0FUgUT1UB3eWs3tQ8TQzSwOT8uujj/RzBQ9dl3nxVtFnJkRBfSDmQjxkg0Ams2jZ
+/0bwqb4tgTFT9Xh+e9c23dt+9W1u+acBa5ELtRvf63Pi7ZpwfonWCnEhrkPV8ZsS
+P8tK1IGCmQoW0iICcJlBgM0jMGz/WLxEUTxvr4lq4RwOkfW/FUpucxLxL6T6l1jU
+ya1w9z13uKif+tNS7bALPd2aZx+hWxcXRy9AGoxrArC1kqljLmRFWY/Px5o2xiWp
+KfdAx3tfBBYwJwNfRnZspXlK0wxM7fQTbUzvFGHD6cSqGJloxyVOFrYXsFGf4h6Z
+UjMIMgD0vJPq13M2+5byt8VWCbZLcYgHXcaT7kjYvmMuFCoBciZpxQlddPZV3c0g
+y4xhQhtkku61qzwFHVpdj9WXshXS1vYxhOWhehJ/JpH/sTn03nPatdLOwNnwVuE4
+QQy0Dp/NKeBLSOm8IVFMqtW9vWRLhyqci5GZ8Qs+v3mlORutzfsB2FX1wqicmIP7
+Odee646FDb/ksSZbbEmuHObF24GlYZVdkZQbRXsYd3niJn/SfFJFyEFXQ3iOhaPS
+YwHlZlJP9zS6kPd7LKnI7NDfgIfW1k2NOmB4mwyYX04uF5l1Fh9J/8UOgJsLZHU7
+ip6+vRbCl0jb6fIPeGk4WaFRsjsrnLssh2vIquHmsYgdhlAZ0cuPhZkDI48MH2Oc
+lJ9P0Q\u003d\u003d
+\u003dL+QP
+-----END PGP MESSAGE-----
