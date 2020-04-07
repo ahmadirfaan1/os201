@@ -22,13 +22,15 @@ title: OS201 - Ahmad Irfan Luthfi
 email: mail.ahmadirfan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trying creating a github page using jekyll
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ahmadirfaan1.github.io/os201/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ahmadirfaan_
 github_username:  ahmadirfan1
 
 # Build settings
-theme: jekyll-theme-hacker
+author: Ahmad Irfan Luthfi
+markdown: kramdown
+repository: ahmadirfaan1/os201
 plugins:
   - jekyll-feed
 
