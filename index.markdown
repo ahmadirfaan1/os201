@@ -4,3 +4,7 @@
 
 layout: home
 ---
+-----
+
+This is my github page for Operating System course.
+I'm going to learn more about procedures of using GitHub and Jekyll.
