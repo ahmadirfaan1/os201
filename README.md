@@ -1,2 +1,2 @@
-# os201
-OS 201
+# Welcome!
+Ahmad Irfan's github page for the Operating System course using jekyll.
