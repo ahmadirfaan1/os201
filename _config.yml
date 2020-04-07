@@ -29,6 +29,7 @@ github_username:  ahmadirfan1
 
 # Build settings
 author: Ahmad Irfan Luthfi
+theme: jekyll-theme-hacker
 markdown: kramdown
 repository: ahmadirfaan1/os201
 plugins:
