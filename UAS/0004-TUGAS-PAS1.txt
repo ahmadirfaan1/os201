@@ -8,25 +8,25 @@ $ eval $PSTAMP
 200608-203520-502c-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-203523-ebd6-UAS/> echo -e $CEKSAYA
-ahmadirfaan1 ZCZCSCRIPTSTART 200604-212030 ahmadirfaan1 
- ahmadirfaan1 ahmadirfaan1 200604-212050-1753-UAS/ 200604-212050 SEQOK SUMOK 1753735e 
- ahmadirfaan1 ahmadirfaan1 200604-212054-7052-UAS/ 200604-212054 SEQOK SUMOK 7052688a 
- ahmadirfaan1 ahmadirfaan1 200604-212101-d62c-UAS/ 200604-212101 SEQOK SUMOK d62c3fa5 
- ahmadirfaan1 ahmadirfaan1 200604-212107-6b34-UAS/ 200604-212107 SEQOK SUMOK 6b3482a4 
+ahmadirfaan1 ZCZCSCRIPTSTART 200604-212030 ahmadirfaan1
+ ahmadirfaan1 ahmadirfaan1 200604-212050-1753-UAS/ 200604-212050 SEQOK SUMOK 1753735e
+ ahmadirfaan1 ahmadirfaan1 200604-212054-7052-UAS/ 200604-212054 SEQOK SUMOK 7052688a
+ ahmadirfaan1 ahmadirfaan1 200604-212101-d62c-UAS/ 200604-212101 SEQOK SUMOK d62c3fa5
+ ahmadirfaan1 ahmadirfaan1 200604-212107-6b34-UAS/ 200604-212107 SEQOK SUMOK 6b3482a4
  ahmadirfaan1 ZCZCSCRIPTSTOP 200604-212122 SEQOK
 200608-203527-c614-UAS/> echo -e $CEKSEBELA1
-ahmadirfaan1 ZCZCSCRIPTSTART 200602-224320 ajiinisti 
- ahmadirfaan1 ajiinisti 200602-224349-f8cb-aji.inisti/ 200602-224349 SEQOK SUMOK f8cbd513 
- ahmadirfaan1 ajiinisti 200602-224400-d09e-aji.inisti/ 200602-224400 SEQOK SUMOK d09ea10b 
- ahmadirfaan1 ajiinisti 200602-224404-8b7a-aji.inisti/ 200602-224404 SEQOK SUMOK 8b7abcb9 
- ahmadirfaan1 ajiinisti 200602-224410-1d0a-aji.inisti/ 200602-224410 SEQOK SUMOK 1d0a5ff3 
+ahmadirfaan1 ZCZCSCRIPTSTART 200602-224320 ajiinisti
+ ahmadirfaan1 ajiinisti 200602-224349-f8cb-aji.inisti/ 200602-224349 SEQOK SUMOK f8cbd513
+ ahmadirfaan1 ajiinisti 200602-224400-d09e-aji.inisti/ 200602-224400 SEQOK SUMOK d09ea10b
+ ahmadirfaan1 ajiinisti 200602-224404-8b7a-aji.inisti/ 200602-224404 SEQOK SUMOK 8b7abcb9
+ ahmadirfaan1 ajiinisti 200602-224410-1d0a-aji.inisti/ 200602-224410 SEQOK SUMOK 1d0a5ff3
  ahmadirfaan1 ZCZCSCRIPTSTOP 200602-224416 SEQOK
 200608-203531-5b25-UAS/> echo -e $CEKSEBELA2
-ahmadirfaan1 ZCZCSCRIPTSTART 200530-064509 akhmadiponegoro 
- ahmadirfaan1 akhmadiponegoro 200530-064509-02df-akhmad.diponegoro/ 200530-064509 SEQOK SUMOK 02df7482 
- ahmadirfaan1 akhmadiponegoro 200530-064511-8579-akhmad.diponegoro/ 200530-064511 SEQOK SUMOK 8579c15f 
- ahmadirfaan1 akhmadiponegoro 200530-064515-bb24-akhmad.diponegoro/ 200530-064515 SEQOK SUMOK bb247466 
- ahmadirfaan1 akhmadiponegoro 200530-064529-ade2-akhmad.diponegoro/ 200530-064529 SEQOK SUMOK ade256ed 
+ahmadirfaan1 ZCZCSCRIPTSTART 200530-064509 akhmadiponegoro
+ ahmadirfaan1 akhmadiponegoro 200530-064509-02df-akhmad.diponegoro/ 200530-064509 SEQOK SUMOK 02df7482
+ ahmadirfaan1 akhmadiponegoro 200530-064511-8579-akhmad.diponegoro/ 200530-064511 SEQOK SUMOK 8579c15f
+ ahmadirfaan1 akhmadiponegoro 200530-064515-bb24-akhmad.diponegoro/ 200530-064515 SEQOK SUMOK bb247466
+ ahmadirfaan1 akhmadiponegoro 200530-064529-ade2-akhmad.diponegoro/ 200530-064529 SEQOK SUMOK ade256ed
  ahmadirfaan1 ZCZCSCRIPTSTOP 200530-064623 SEQOK
 200608-203535-e9eb-UAS/> exit
 exit
